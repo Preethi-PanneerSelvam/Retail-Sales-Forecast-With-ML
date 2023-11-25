@@ -1,4 +1,4 @@
-#Retail Sales Forecast with Machine Learning
+##Retail Sales Forecast with Machine Learning
 #Overview
 This project aims to forecast retail sales using machine learning techniques. The goal is to leverage historical sales data to build a predictive model that can provide accurate and reliable sales forecasts. The following README provides an overview of the project structure, requirements, and steps to run the code.
 
